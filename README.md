@@ -20,9 +20,9 @@ Add to your `.mcp.json`:
     "command": "npx",
     "args": ["-y", "@villafinder/tolgee-mcp"],
     "env": {
-      "TOLGEE_URL": "https://tikus.villa-finder.com",
+      "TOLGEE_URL": "https://your-tolgee-instance.com",
       "TOLGEE_TOKEN": "your-token",
-      "PROJECT_ID": "1"
+      "PROJECT_ID": "your-project-id"
     }
   }
 }
